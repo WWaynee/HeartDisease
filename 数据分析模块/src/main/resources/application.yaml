@@ -1,0 +1,6 @@
+datasource:
+  db:
+    username: scnusoftware
+    password: SCNU@2019
+    url: jdbc:mysql://fisher.lazybone.xyz:3306/scnu_library?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf-8
+    driver: com.mysql.cj.jdbc.Driver
